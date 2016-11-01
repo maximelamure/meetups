@@ -1,5 +1,5 @@
-# meetups
-Some links about interesting meetup and workshop
+# Meetups and workshops links
+Some links about interesting meetups and workshops
 
 ## TensorFlow
 
