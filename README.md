@@ -23,3 +23,6 @@ Some links about interesting meetups and workshops
  - Adrian Cockcroft on Architecture for the Cloud: https://www.infoq.com/interviews/Adrian-Cockcroft-Netflix
  - Adrian Cockcroft on Microservices and DevOps: https://www.infoq.com/interviews/adrian-cockcroft-microservices-devops
  
+## Stream processing
+ - Stream Processing Meetup @ LinkedIn: https://www.youtube.com/watch?v=QaeXDh12EhE&list=PLZDyxA22zzGx34wdHESUux2_V1qfkQ8zx
+ 
