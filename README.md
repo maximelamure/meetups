@@ -26,3 +26,7 @@ Some links about interesting meetups and workshops
 ## Stream processing
  - Stream Processing Meetup @ LinkedIn: https://www.youtube.com/watch?v=QaeXDh12EhE&list=PLZDyxA22zzGx34wdHESUux2_V1qfkQ8zx
  
+## ElasticSearch
+ - Elasticsearch at Scale: Reference Architecture and Common Pitfalls: https://www.elastic.co/webinars/es-at-scale
+ - Graph Capabilities with the Elastic Stack: https://www.elastic.co/webinars/sneak-peek-of-graph-capabilities-with-elasticsearch
+ 
