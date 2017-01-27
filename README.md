@@ -8,6 +8,7 @@ Some links about interesting meetups and workshops
  - TensorFlow workshop: https://github.com/random-forests/tensorflow-workshop
  - Tensorflow for poets, a transfer learning lab : https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html#0
  - MNIST for beginners: https://www.tensorflow.org/versions/r0.10/tutorials/mnist/beginners/index.html#mnist-for-ml-beginners
+ - TensorFlow MOOC on Udacity: https://www.udacity.com/course/deep-learning--ud730
 
 ## Search
  - The Economics of E-Commerce Search: https://www.youtube.com/watch?v=xIKsN33_4CM
