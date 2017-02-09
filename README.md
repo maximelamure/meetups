@@ -31,3 +31,6 @@ Some links about interesting meetups and workshops
  - Elasticsearch at Scale: Reference Architecture and Common Pitfalls: https://www.elastic.co/webinars/es-at-scale
  - Graph Capabilities with the Elastic Stack: https://www.elastic.co/webinars/sneak-peek-of-graph-capabilities-with-elasticsearch
  - Zero-Downtime Re-Indexing of Elasticsearch at SignalF: https://speakerdeck.com/elastic/elastic-silicon-valley-meetup-zero-downtime-re-indexing-of-elasticsearch-at-signalfx 
+
+###  How New Approaches Address Modern Data Processing Needs 
+ - Thinking Serverless —  Platform Level Issues : 
