@@ -33,4 +33,4 @@ Some links about interesting meetups and workshops
  - Zero-Downtime Re-Indexing of Elasticsearch at SignalF: https://speakerdeck.com/elastic/elastic-silicon-valley-meetup-zero-downtime-re-indexing-of-elasticsearch-at-signalfx 
 
 ###  How New Approaches Address Modern Data Processing Needs 
- - Thinking Serverless —  Platform Level Issues : 
+ - Thinking Serverless —  Platform Level Issues : http://highscalability.com/blog/2017/1/30/part-1-of-thinking-serverlesshow-new-approaches-address-mode.html
