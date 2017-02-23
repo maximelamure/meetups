@@ -26,6 +26,7 @@ Some links about interesting meetups and workshops
  
 ## Stream processing
  - Stream Processing Meetup @ LinkedIn: https://www.youtube.com/watch?v=QaeXDh12EhE&list=PLZDyxA22zzGx34wdHESUux2_V1qfkQ8zx
+ - Stream Processing with Apache Kafka & Apache Samza: http://www.ustream.tv/recorded/100034801
  
 ## ElasticSearch
  - Elasticsearch at Scale: Reference Architecture and Common Pitfalls: https://www.elastic.co/webinars/es-at-scale
